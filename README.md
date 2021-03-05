@@ -8,5 +8,5 @@ Currently, I'm using R for the entire project (for more details, see "About the 
 We have 361 unique monologue transcripts from scriptsfromtheloft.com (there are 370 scripts, 5 are password-locked and 4 duplicates). The raw text files (14 MB) are provided until I have made ready the files for analysis.
 
 # About the R packages (since this is in-progress, I'll whittle this down)
-For web scraping, rvest; for data munging: tidyverse, grep; for text-cleaning: grep; for text-mining: tm, tidytext, openNLP; for text analysis/topic modeling: stm, lsa, lda, topicmodels, stm; for visualizations/graphs: ggplot2, wordcloud; and for the unnecessary activities/tracking/timing: pbapply.
+For web scraping, rvest; for data munging: tidyverse, grep; for text-cleaning: grep; for text-mining: tm, tidytext, openNLP; for text analysis/topic modeling: stm, lsa, lda, topicmodels, stm; for visualizations/graphs: shiny, ggplot2, wordcloud; and for the unnecessary activities/tracking/timing: pbapply.
 
