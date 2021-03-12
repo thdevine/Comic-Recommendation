@@ -1,4 +1,4 @@
-# Disclaimer: (As of 3/12 I'm roughly 1/3 the way through this project by steps, probably 1/2 by time)
+# Disclaimer: (As of Mar. 12th I'm roughly 1/3 the way through this project by steps, probably 1/2 by time)
 Some content, topics, and/or language within the data is found to be highly offensive to some/many demographics. However, the analysis contained in this work is solely for the purpose of learning and showcasing an application of natural language processing (NLP) in a context some may be interested in. 
 
 # About the project
